@@ -14,3 +14,9 @@ This repository contains SQL scripts for cleaning and standardizing datasets, en
 - Handling Missing Data: Replaces or removes NULL values where appropriate.
 
 - Optimization: Drops unnecessary columns and enforces data consistency.
+
+🗂 SQL Cleaning Workflow
+
+1. Create a Duplicate Table
+
+Created a backup table layoffs_staging from the original layoffs table.
