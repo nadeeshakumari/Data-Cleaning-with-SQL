@@ -1,6 +1,5 @@
 # Data Cleaning with SQL
 
-Data Cleaning with SQL
 
 📌 Overview
 
@@ -8,10 +7,10 @@ This repository contains SQL scripts for cleaning and standardizing datasets, en
 
 🚀 Features
 
-Duplicate Removal: Identifies and removes duplicate records efficiently.
+- Duplicate Removal: Identifies and removes duplicate records efficiently.
 
-Data Standardization: Cleans inconsistent values (e.g., trimming spaces, correcting industry names, and formatting dates).
+- Data Standardization: Cleans inconsistent values (e.g., trimming spaces, correcting industry names, and formatting dates).
 
-Handling Missing Data: Replaces or removes NULL values where appropriate.
+- Handling Missing Data: Replaces or removes NULL values where appropriate.
 
-Optimization: Drops unnecessary columns and enforces data consistency.
+- Optimization: Drops unnecessary columns and enforces data consistency.
