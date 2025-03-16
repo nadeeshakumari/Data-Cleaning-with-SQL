@@ -1,7 +1,7 @@
 # Data Cleaning with SQL
 
 
-📌 Overview
+📌 ## Overview
 
 This repository contains SQL scripts for cleaning and standardizing datasets, ensuring data consistency and integrity. The scripts demonstrate how to remove duplicates, standardize data formats, handle missing values, and optimize table structures.
 
