@@ -42,5 +42,18 @@ Using ROW_NUMBER() to identify and remove duplicates:
 
    ![Image](https://github.com/user-attachments/assets/0efde0c3-ee1b-4b67-9664-5055d66b8ebe)
 
+ - Standardizing values:
    
+    ![Image](https://github.com/user-attachments/assets/0a12e88b-8d89-4777-9a27-85db23016bed)
+    ![Image](https://github.com/user-attachments/assets/205f5122-3deb-409c-822e-5570c68d9859)
+
+### 🔹 d) Handling Missing Values
+
+- Filling missing values based on existing data:
+  
+  ![Image](https://github.com/user-attachments/assets/af30f7f5-81b1-491d-b0cf-d1243971ad1e)
+
+- Removing rows where both total_laid_off and percentage_laid_off are missing:
+
+  ![Image](https://github.com/user-attachments/assets/15aa441d-8802-4aef-b150-a84a0b733af3)
   
