@@ -56,4 +56,28 @@ Using ROW_NUMBER() to identify and remove duplicates:
 - Removing rows where both total_laid_off and percentage_laid_off are missing:
 
   ![Image](https://github.com/user-attachments/assets/15aa441d-8802-4aef-b150-a84a0b733af3)
+
+### 🔹 e) Dropping Unnecessary Columns
+
+  ![Image](https://github.com/user-attachments/assets/c3e2ed22-1e2c-4c6a-b533-06fe09053a72)
+
+## 📈 2. Exploratory Data Analysis (EDA)
+
+### 📊 a) Summary Statistics
+
+- **Maximum layoffs and percentages:**
+
+  ![Image](https://github.com/user-attachments/assets/1d44bd2f-84cb-467b-acd1-e0dffa656eaa)
+
+- **Date range of layoffs:**
+
+  ![Image](https://github.com/user-attachments/assets/fe1723f2-2410-469f-9402-cfd751134dcf)
+
+ ### 📊 b) Industry & Company Insights
+
+- **Companies with the highest layoffs:**
   
+  ![Image](https://github.com/user-attachments/assets/2134edcb-54d4-48ff-b0f9-5ccc6d952ae2)
+
+  
+
