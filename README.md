@@ -21,3 +21,4 @@ By leveraging SQL, I ensure efficient data management and accurate analysis.
 To preserve the original dataset, a duplicate table (layoffs_staging) is created:
 
 
+
