@@ -20,7 +20,7 @@ By leveraging SQL, I ensure efficient data management and accurate analysis.
 
 To preserve the original dataset, a duplicate table (layoffs_staging) is created:
 
-![Image](https://github.com/user-attachments/assets/a3ee5a50-bb82-4fb6-ab8a-89b6c850f271)
+![Image](https://github.com/user-attachments/assets/f90c286b-6ec0-4478-9789-cc5c79ac6408)
 
 ### 🔹 b) Removing Duplicates
 
@@ -36,11 +36,11 @@ Using ROW_NUMBER() to identify and remove duplicates:
 
 - Trimming whitespace from names:
 
-  ![Image](https://github.com/user-attachments/assets/dff46479-87c7-4abd-8667-d38e966d7753)
+  ![Image](https://github.com/user-attachments/assets/5eea9957-c8cf-4435-8dcf-ef29f42474a2)
 
  - Converting format:
 
-   ![Image](https://github.com/user-attachments/assets/0efde0c3-ee1b-4b67-9664-5055d66b8ebe)
+   ![Image](https://github.com/user-attachments/assets/8564b4b7-7a2f-4661-8ca6-349f1509fd1e)
 
  - Standardizing values:
    
