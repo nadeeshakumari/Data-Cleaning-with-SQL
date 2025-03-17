@@ -87,3 +87,17 @@ Using ROW_NUMBER() to identify and remove duplicates:
 
   ![Image](https://github.com/user-attachments/assets/6d8919b9-fd1f-4db7-bc08-f8b646aaf626)
   
+### 📊 c) Temporal Analysis
+
+- **Layoffs per year:**
+
+  ![Image](https://github.com/user-attachments/assets/8d6e6198-7dfe-47b0-afbf-f1f0351c3bfb)
+  
+- **Monthly layoffs trend:**
+
+  ![Image](https://github.com/user-attachments/assets/55ff31df-1eaf-43dc-a91e-eddbf5e70d0e)
+  
+- **Rolling total layoffs:**
+
+  ![Image](https://github.com/user-attachments/assets/8ceec4e2-98f3-41bc-9a0b-d93e1811970e)
+  
