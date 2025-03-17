@@ -79,5 +79,11 @@ Using ROW_NUMBER() to identify and remove duplicates:
   
   ![Image](https://github.com/user-attachments/assets/2134edcb-54d4-48ff-b0f9-5ccc6d952ae2)
 
-  
+- **Industries most affected:**
+    
+    ![Image](https://github.com/user-attachments/assets/847a57e0-a97f-4112-aafb-db0fac33285b)
 
+- **Layoffs by country:**
+
+  ![Image](https://github.com/user-attachments/assets/6d8919b9-fd1f-4db7-bc08-f8b646aaf626)
+  
