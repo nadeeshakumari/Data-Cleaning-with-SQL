@@ -101,3 +101,24 @@ Using ROW_NUMBER() to identify and remove duplicates:
 
   ![Image](https://github.com/user-attachments/assets/8ceec4e2-98f3-41bc-9a0b-d93e1811970e)
   
+### 📊 d) Ranking Analysis
+
+- **Companies with the highest layoffs per year:**
+  
+  ![Image](https://github.com/user-attachments/assets/baf2c2d1-18f0-40ad-8a87-c90a23d29c48)
+  
+- **Top 5 companies with the highest layoffs each year:**
+  
+  ![Image](https://github.com/user-attachments/assets/2a850236-b1be-4484-be86-c73caf62cfd8)
+  
+## 🎯 Conclusion
+
+✅ This SQL analysis successfully:
+
+- Cleans and standardizes the layoffs dataset by removing duplicates, handling missing values, and formatting data.
+
+- Extracts key insights on layoffs across industries, companies, and countries.
+
+- Identifies patterns in layoffs over time, enabling data-driven decision-making.
+
+- Highlights industries and locations most affected by layoffs.
